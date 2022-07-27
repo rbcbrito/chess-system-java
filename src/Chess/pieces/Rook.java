@@ -1,7 +1,5 @@
 package chess.pieces;
 
-import javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction;
-
 import boardgame.Board;
 import boardgame.Position;
 import chess.ChessPiece;
